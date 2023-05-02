@@ -17,11 +17,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "SubtitleHookUMG",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/38f2e1097ec74e83988af56689d4daff"
 		}
 	]
 }
