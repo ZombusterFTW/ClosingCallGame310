@@ -6,6 +6,11 @@ Youtube Free Sound Library-PhoneRing
 FesliyanStudios-PhonePickup
 Lado Ladovy-KeysPickup
 EverydayCinematicSounds-DoorLockandUnlock
-
+Mozart-Lacrimosa
+Beethoven_-_Symphony_No_7_in_A_major_op_92_-_II__Allegretto
+Mozart_-_Requiem
+Schubert_-_Serenade
+Tartini_Violin_Sonata_in_G_minor___Devil_s_Trill_Sonata__
+The_Phantom_of_the_Opera___Prague_Cello_Quartet
 
 -Add any credited sounds to this list
