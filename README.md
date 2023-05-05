@@ -16,3 +16,5 @@ Flashlight: E
 Interact: F
 
 Pause: P
+
+ESC: Close Game
